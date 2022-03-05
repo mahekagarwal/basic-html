@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.sec6 {
+  padding: 5%;
+}
+.sec6 .bg6 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sec6 .bg6 .bgclr {
+  height: 300px;
+  background-color: blue;
+
+  z-index: -3;
+}
+.sec6 .bg6 .bg {
+  opacity: 140%;
+}
+.sec6 .sec6cont .bgquotes {
+  position: absolute;
+  top: 0;
+}

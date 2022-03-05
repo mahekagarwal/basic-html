@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.row {
+  justify-content: space-evenly;
+}
+.col-4,
+.col-8 {
+  height: 250px;
+}
